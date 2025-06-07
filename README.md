@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessekay" alt="jessekay" /></a> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jessekay&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jessekay&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 - 🌱 I’m currently learning **JAVA, PL, OS**
 
