@@ -7,9 +7,9 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jessekay&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
-- 🌱 I’m currently learning **JAVA, PL, OS**
+- 🌱 I’m currently learning **WED DEVELOPMENT, SOFTWARE QUALITY ASSURANCE, SOFTWARE PROJECT MANAGEMENT**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, FIGMA**
+- 💬 Ask me about **JAVA, JAVASCRIPT, UI/UX DESIGN**
 
 - 📫 How to reach me **kayjes00@gmail.com**
 
